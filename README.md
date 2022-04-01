@@ -7,4 +7,4 @@
 # Models: The structure of the neural network including the number of hidden layers, activation functions, regularization, and so on are built in this file.
 # Functions: This file fills the RAM with different data, clusters members, CTR, ...
 # Main: The training process and saving Models is done in this file.
-# TEST_MAIN: The evaluation and the AUC and LOGLOSS are processed here.
+# Test_Main: The evaluation and the AUC and LOGLOSS are processed here.
